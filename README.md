@@ -18,9 +18,9 @@ I'm a frontend developer specializing in **web** and **game** development. Passi
 - [**Music Website**](https://github.com/vuvanlinhk3/WebMusic) *(Work in Progress)*  
 
 ## 🌐 Connect with Me
-- [Facebook](https://www.facebook.com/yourprofile)  
+- [Facebook]([https://www.facebook.com/v](https://www.facebook.com/LinhVanVu30122003))  
 - [YouTube](https://www.youtube.com/yourchannel)  
-- [Instagram](https://www.instagram.com/yourprofile)  
+- [Instagram]([https://www.instagram.com/yourprofile](https://www.instagram.com/vanlinhk3/?next=%2F))  
 - [TikTok](https://www.tiktok.com/@yourprofile)  
 
 Thank you for visiting! If you'd like to collaborate or chat about tech, feel free to reach out!
