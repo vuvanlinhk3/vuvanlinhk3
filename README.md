@@ -15,7 +15,7 @@ I'm a frontend developer specializing in **web** and **game** development. Passi
 - [**2D Adventure Game - Obstacle Challenge**](https://github.com/vuvanlinhk3/Game-2D-vuot-chuong-ngai-vat-Advanture)  
   A 2D pixel art game developed in Unity using C#, where players navigate obstacles in an adventure setting.
 
-- [**Music Website**](https://github.com/vuvanlinhk3/WebMusic) *(Work in Progress)*  
+- [**Music Website**]([https://github.com/vuvanlinhk3/WebMusic](https://github.com/vuvanlinhk3/frontend_wanmusic_demo1)) *(Work in Progress)*  
 
 ## 🌐 Connect with Me
 - [Facebook](https://www.facebook.com/LinhVanVu30122003)  
